@@ -1,2 +1,2 @@
-# A cuccot a diagrams.net-en keresztül tudjátok majd megnézni
-Filter a különböző  termékek kereséséhez
+# A blueprint-et a diagrams.net-en keresztül tudjátok majd megnézni
+Végül nem ez lett a végleges verzió
